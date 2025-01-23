@@ -6,4 +6,4 @@
 - 🔍 I am looking for a freelance position
 - 🚀 I am working on a small tech blog to keep learning
 
-**You can access my blog** : [here](https://www.guillaume-lgf.fr)
+**You can access my blog** : [here](https://guillaume-lgf.fr)
